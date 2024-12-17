@@ -20,3 +20,7 @@ console.log('TEST');
 console.log('TEST');
 console.log('TEST');
 console.log('TEST');
+
+const newFeature = () => {
+  console.log('Test 1 Git');
+};
