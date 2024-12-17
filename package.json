@@ -1,0 +1,17 @@
+{
+  "name": "recipe",
+  "version": "1.0.0",
+  "description": "app for online recipes",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel watch index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Mihail Gheorghe",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.13.3",
+    "parcel": "^2.13.3",
+    "sass": "^1.26.10"
+  }
+}
